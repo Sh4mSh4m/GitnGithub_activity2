@@ -1,5 +1,7 @@
 #Planning de realisation
 Phase1:
-- oct 2017
+- nov 2017
+Phase2:
+- Courant 2050
 
 End
